@@ -12,7 +12,5 @@ This project was created as a learning exercise to practice front-end web develo
 Instructions:
 To view the blog page, simply open the index.html file in your web browser.
 
-Live Demo:
-[Link to live demo]
 
 Feel free to explore the code and provide any feedback or suggestions!
